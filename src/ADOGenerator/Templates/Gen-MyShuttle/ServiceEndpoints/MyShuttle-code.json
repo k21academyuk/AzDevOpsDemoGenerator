@@ -1,0 +1,16 @@
+﻿{
+  "data": {
+
+  },
+  "name": "MyShuttle-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/MyShuttle/_git/MyShuttle",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

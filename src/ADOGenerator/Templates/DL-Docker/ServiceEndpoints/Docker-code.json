@@ -1,0 +1,16 @@
+﻿{
+  "data": {
+
+  },
+  "name": "Docker-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/Docker/_git/Docker",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

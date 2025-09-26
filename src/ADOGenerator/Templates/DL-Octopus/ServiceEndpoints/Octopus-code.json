@@ -1,0 +1,16 @@
+{
+  "data": {
+
+  },
+  "name": "Octopus-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/Octopus/_git/Octopus",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

@@ -1,0 +1,11 @@
+{
+  "parameters":
+    {
+      "gitSource":
+        {
+          "url": "https://dev.azure.com/vstsdemodata/MyShuttle/_git/MyShuttle"
+        },
+      "serviceEndpointId": "$MyShuttle-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}

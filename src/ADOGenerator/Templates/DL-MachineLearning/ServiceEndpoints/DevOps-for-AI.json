@@ -1,0 +1,16 @@
+{
+  "data": {
+
+  },
+  "name": "DevOps-for-AI-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/DevOps-for-AI/_git/DevOps-for-AI",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

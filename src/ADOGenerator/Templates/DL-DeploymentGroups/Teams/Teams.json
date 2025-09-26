@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deployment Group Team",
+    "description": "The default project team.",
+    "isDefault": "true"
+  },
+  {
+    "name": "Team2",
+    "description": "Team2 description",
+    "isDefault": "false"
+  },
+  {
+    "name": "Team1",
+    "description": "Team1 description",
+    "isDefault": "false"
+  }
+]

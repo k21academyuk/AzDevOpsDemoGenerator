@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/vstsdemodata/WhiteSource%20Bolt/_git/WhiteSource%20Bolt"
+    },
+	"serviceEndpointId": "$WebGoat-code$",
+  "deleteServiceEndpointAfterImportIsDone": true
+  }
+}

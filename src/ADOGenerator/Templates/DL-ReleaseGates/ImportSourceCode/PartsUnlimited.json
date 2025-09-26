@@ -1,0 +1,11 @@
+{
+  "parameters":
+    {
+      "gitSource":
+        {
+          "url": "https://dev.azure.com/vstsdemodata/Release%20Gates/_git/PartsUnlimited"
+        },
+      "serviceEndpointId": "$PartsUnlimited-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}

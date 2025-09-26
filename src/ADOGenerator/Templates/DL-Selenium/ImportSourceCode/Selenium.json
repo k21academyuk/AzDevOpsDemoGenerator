@@ -1,0 +1,11 @@
+{
+  "parameters":
+    {
+      "gitSource":
+        {
+          "url": "https://dev.azure.com/vstsdemodata/Selenium/_git/Selenium"
+        },
+      "serviceEndpointId": "$Selenium-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}

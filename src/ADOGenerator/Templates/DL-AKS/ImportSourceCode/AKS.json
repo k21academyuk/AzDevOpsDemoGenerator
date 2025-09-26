@@ -1,0 +1,11 @@
+{
+  "parameters":
+    {
+      "gitSource": 
+      {
+        "url": "https://dev.azure.com/vstsdemodata/AKS/_git/AKS"
+      },
+      "serviceEndpointId": "$AKS-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}

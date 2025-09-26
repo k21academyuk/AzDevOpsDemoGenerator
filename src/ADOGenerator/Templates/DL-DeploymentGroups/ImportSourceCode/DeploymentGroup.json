@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/vstsdemodata/Deployment%20Groups/_git/DeploymentGroup"
+    },
+    "serviceEndpointId": "$DeploymentGroup-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}

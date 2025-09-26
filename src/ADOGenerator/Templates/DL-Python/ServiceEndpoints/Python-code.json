@@ -1,0 +1,16 @@
+﻿{
+  "data": {
+
+  },
+  "name": "Python-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/Python/_git/PythonDjango",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

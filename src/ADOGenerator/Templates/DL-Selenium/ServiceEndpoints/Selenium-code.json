@@ -1,0 +1,16 @@
+﻿{
+  "data": {
+
+  },
+  "name": "Selenium-code",
+  "type": "git",
+  "url": "https://dev.azure.com/vstsdemodata/Selenium/_git/Selenium",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

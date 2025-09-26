@@ -1,0 +1,11 @@
+{
+  "parameters":
+    {
+      "gitSource":
+        {
+          "url": "https://dev.azure.com/vstsdemodata/SonarQube/_git/MyShuttle"
+        },
+      "serviceEndpointId": "$SonarQube-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}

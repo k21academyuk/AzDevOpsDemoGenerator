@@ -1,0 +1,10 @@
+{
+  "parameters":
+    {
+      "gitSource": {
+        "url": "https://dev.azure.com/vstsdemodata/Python/_git/PythonDjango"
+      },
+      "serviceEndpointId": "$Python-code$",
+      "deleteServiceEndpointAfterImportIsDone": true
+    }
+}
